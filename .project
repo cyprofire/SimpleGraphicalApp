@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>GUI</name>
+=======
+	<name>SimpleGraphicalApp</name>
+>>>>>>> 2bc8a2004183646fa2ac145123c8bc917a619c7e
 	<comment></comment>
 	<projects>
 	</projects>
